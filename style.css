@@ -1,0 +1,64 @@
+
+
+
+html{
+    background:lightslategrey;
+}
+
+#title, #description{
+    text-align: center;
+}
+
+#survey-form{
+    margin: 10px 30%;
+    
+}
+#name{
+
+    border-radius: 5px;
+    height: 35px;
+    width:400px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+#email{
+
+ 
+    border-radius: 5px;
+    height: 35px;
+    width:400px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+#number{
+
+    border-radius: 5px;
+    height: 35px;
+    width:400px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+.drp-btn{
+
+    border-radius: 5px;
+    height: 35px;
+    width:400px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+#text-area{
+
+    border-radius: 5px;
+    height: 50px;
+    width:400px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#submit{
+
+    background-color: lightgreen;
+    height:32px;
+    width:70px;
+
+}
